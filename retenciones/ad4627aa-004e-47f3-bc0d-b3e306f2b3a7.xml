@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<retenciones:Retenciones xmlns:retenciones="http://www.sat.gob.mx/esquemas/retencionpago/2" xmlns:plataformasTecnologicas="http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CveRetenc="26" FechaExp="2023-06-04T06:25:50" FolioInt="360287970718485121" LugarExpRetenc="06500" NoCertificado="00001000000501537009" Sello="Dkka3IsssIvv36QxIMFHOyAJyMriFLSlswwimkQbmI59pEGzVccbvc63TgVuQEZIudfFXZUV1R44EBcI9IdD81dirWLQDCEImFPac3diLwWkeL9f6aQySQPn+ncAIrZHZI1k9yicxFgsnv/ULm58vQkS3vbPPacqOFfkZfCIwQu/hGsp90ZrC3EqqDfvmcfqLybe4fAOQBqFBGKtzJnb22BSz3FX1BMw84qyrNG/UpI1vTmUrEO1Qsg8hQKvyBTMz+JgCoZlZbqrxO66cw2owfYGsX+UiUzOw6oiRxijh9DATwmxBL+zYoqop1yqAr6ICJ0Q4Xdo4+qp+zciQ72Ryw==" Version="2.0" xsi:schemaLocation="http://www.sat.gob.mx/esquemas/retencionpago/2 http://www.sat.gob.mx/esquemas/retencionpago/2/retencionpagov2.xsd http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10 http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10/ServiciosPlataformasTecnologicas10.xsd">
+  <retenciones:Emisor NomDenRazSocE="DIDI MOBILITY INFORMATION TECHNOLOGY PTE. LTD" RegimenFiscalE="610" RfcE="DMI1712045J9" />
+  <retenciones:Receptor NacionalidadR="Nacional">
+    <retenciones:Nacional DomicilioFiscalR="03810" NomDenRazSocR="VERONICA GARCIA BLANCAS" RfcR="GABV711214582" />
+  </retenciones:Receptor>
+  <retenciones:Periodo Ejercicio="2023" MesFin="05" MesIni="05" />
+  <retenciones:Totales MontoTotExent="0.00" MontoTotGrav="326.78" MontoTotOperacion="326.78" MontoTotRet="33.00">
+    <retenciones:ImpRetenidos BaseRet="326.78" ImpuestoRet="001" MontoRet="6.86" TipoPagoRet="03" />
+    <retenciones:ImpRetenidos BaseRet="52.28" ImpuestoRet="002" MontoRet="26.14" TipoPagoRet="01" />
+  </retenciones:Totales>
+  <retenciones:Complemento>
+    <plataformasTecnologicas:ServiciosPlataformasTecnologicas DifIVAEntregadoPrestServ="26.144800" MonTotServSIVA="326.78" MonTotalporUsoPlataforma="65.19" NumServ="5" Periodicidad="01" TotalISRRetenido="6.86" TotalIVARetenido="26.14" TotalIVATrasladado="52.284800" Version="1.0">
+      <plataformasTecnologicas:Servicios>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-30" FormaPagoServ="03" PrecioServSinIVA="98.78" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="98.78" Importe="15.804800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="15.80" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-30" FormaPagoServ="03" PrecioServSinIVA="35.64" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="35.64" Importe="5.702400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="7.14" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-29" FormaPagoServ="03" PrecioServSinIVA="97.94" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="97.94" Importe="15.670400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="29.08" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-29" FormaPagoServ="03" PrecioServSinIVA="57.72" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="57.72" Importe="9.235200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="6.10" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-29" FormaPagoServ="03" PrecioServSinIVA="36.70" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.70" Importe="5.872000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="7.07" />
+        </plataformasTecnologicas:DetallesDelServicio>
+      </plataformasTecnologicas:Servicios>
+    </plataformasTecnologicas:ServiciosPlataformasTecnologicas>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2023-06-04T06:25:51" NoCertificadoSAT="00001000000504204971" RfcProvCertif="PPD101129EA3" SelloCFD="Dkka3IsssIvv36QxIMFHOyAJyMriFLSlswwimkQbmI59pEGzVccbvc63TgVuQEZIudfFXZUV1R44EBcI9IdD81dirWLQDCEImFPac3diLwWkeL9f6aQySQPn+ncAIrZHZI1k9yicxFgsnv/ULm58vQkS3vbPPacqOFfkZfCIwQu/hGsp90ZrC3EqqDfvmcfqLybe4fAOQBqFBGKtzJnb22BSz3FX1BMw84qyrNG/UpI1vTmUrEO1Qsg8hQKvyBTMz+JgCoZlZbqrxO66cw2owfYGsX+UiUzOw6oiRxijh9DATwmxBL+zYoqop1yqAr6ICJ0Q4Xdo4+qp+zciQ72Ryw==" SelloSAT="QRR59IHfOqY/NKuX0hPfmKl8IlLGOkI8JXFXXTSjgCVvE+r2FMVey6AGUHrOhjXITs0nDH2t9UbP4WEMP26A8CBHn29QdUm91Z2MFTuA3UZE/QPP94XTBrF0x7knRK8H7qlunRF8hX3S0PfzqYsaNBR/PgvlNxTj9Yxw1bQSviNje/CyDBc0bueFWlmJP4+L8mSwKREB9vAgIZf0m2GKfcsSrdXKTYfp5MdHKRRrWXJNSeU8OVhUDM0H6lqkYWNUKA5hAeD68q7x4An6NSbslyNr5pe0sKwrXB+HIYtJGkV87ppgArjT4bttcnSInj1mtzebWxBr9CPutqE88gwVjA==" UUID="AD4627AA-004E-47F3-BC0D-B3E306F2B3A7" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </retenciones:Complemento>
+</retenciones:Retenciones>

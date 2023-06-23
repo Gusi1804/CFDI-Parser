@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd https://www.farmaciasanpablo.com.mx/FSPAddendaEmisorB2B https://www.farmaciasanpablo.com.mx/FSPAddendaEmisorB2B/FSPAddendaEmisorB2B.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioEmisor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioEmisor.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd" Version="4.0" Serie="SI" Folio="3058803175" Fecha="2023-06-15T20:17:18" Moneda="MXN" TipoCambio="1" SubTotal="1709.00" Descuento="1.00" Total="1708.00" FormaPago="04" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="03800" Exportacion="01" NoCertificado="00001000000507899098" Certificado="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" Sello="SsuQXDtaj5TLkVhGp6bEg/wkZsbWEADsz9wwO0KsOchYnaR0sK5yvbbtYI/l2Mem/Sd/wWaL3fkCe+KajndwfoU727DEkzH2uibiwAxU1wn1+7OndWhzdpQMzT1Burnl2IQ2Z6p40FhoQc1PoW+8+MylVwf/z8YufiwBt/n3/dLVZx/7s3UnmIOrFBcjvDJztYi1j8Mhzwh6HCxi/Ft5rmYDE8gkCjy1FC1LiZ9R+/E/MbYXwWruy7E/4DOydFCUWqRED6WdbPCSydbcJVR813BsoWvx7Rk85sjia7d/rAFOQNOjT4nkIytiTi3fppX6lScNn3X0FDgTHvrs0TxZ2Q==" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:FSP="https://www.farmaciasanpablo.com.mx/FSPAddendaEmisorB2B" xmlns:adddomemi="http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioEmisor" xmlns:adddomexp="http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn">
+  <cfdi:Emisor Rfc="PPL961114GZ1" Nombre="PHARMA PLUS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="GAUE64100586A" Nombre="EDUARDO ALONSO GARFIAS URIBE" UsoCFDI="D01" DomicilioFiscalReceptor="04700" RegimenFiscalReceptor="605" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="51181517" NoIdentificacion="000000000003140733" Cantidad="2.000" ClaveUnidad="H87" Unidad="UN" Descripcion="DABEX XR TAB 750MG CAJ C/60" ValorUnitario="854.00" Importe="1708.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1708.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="51181517" NoIdentificacion="000000000003140733" Cantidad="1.000" ClaveUnidad="H87" Unidad="UN" Descripcion="DABEX XR TAB 750MG CAJ C/60" ValorUnitario="1.00" Importe="1.000" Descuento="1.00" ObjetoImp="01" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" Base="1708.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="67D91C08-B21B-4121-9899-CD1B452E5BFB" FechaTimbrado="2023-06-15T20:17:25" RfcProvCertif="SST060807KU0" SelloCFD="SsuQXDtaj5TLkVhGp6bEg/wkZsbWEADsz9wwO0KsOchYnaR0sK5yvbbtYI/l2Mem/Sd/wWaL3fkCe+KajndwfoU727DEkzH2uibiwAxU1wn1+7OndWhzdpQMzT1Burnl2IQ2Z6p40FhoQc1PoW+8+MylVwf/z8YufiwBt/n3/dLVZx/7s3UnmIOrFBcjvDJztYi1j8Mhzwh6HCxi/Ft5rmYDE8gkCjy1FC1LiZ9R+/E/MbYXwWruy7E/4DOydFCUWqRED6WdbPCSydbcJVR813BsoWvx7Rk85sjia7d/rAFOQNOjT4nkIytiTi3fppX6lScNn3X0FDgTHvrs0TxZ2Q==" NoCertificadoSAT="00001000000506202789" SelloSAT="uWn/wtR3m8FUBfsouYlExSr/+L9ahY4qKsPSbTjAUHb8j+kiR/hTrkvzTXf/RL5k5r+In8FexsvPsSrEkzcXt9F7NMVt8KsxFPf+eC7EcNOwLlga31S1GpFjLxe2XSU3HPRM92uuRxlxPUzuWSFjUucs+Jq/IdwZMFetcKoLvREK3nEaFQTPhf+XK9cox5zih1AtqfWt0aCv2rkEn71C/x9N3MtHO2KJi3Xi/9zsa8pwFMit+D3nMDUM4HwXFH3DRHOYGehXwLPSIdPRg1qWQSUW1OrgPf6koTrlNSwx6rU4pgWzkPzHgqnUf9PZbBkzAvJS33f2c1i6kYuC5VXLLg==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <FSP:AddendaEmisor>
+      <FSP:SPFAdicionalCFDI>
+        <FSP:Cabecera>
+          <FSP:NombreSucursal>VERONICA GARCIA</FSP:NombreSucursal>
+          <FSP:NumCliente>0001385488</FSP:NumCliente>
+          <FSP:Condiciones>Pago de Contado</FSP:Condiciones>
+          <FSP:PedidoTrasladoRama>1507188305</FSP:PedidoTrasladoRama>
+          <FSP:FolioDocumentoSAP>3058803175</FSP:FolioDocumentoSAP>
+          <FSP:TipoDocumentoSerie>SI</FSP:TipoDocumentoSerie>
+          <FSP:FechaVencimiento>15/06/2023</FSP:FechaVencimiento>
+          <FSP:Motivo />
+          <FSP:FacturaSapOriginal />
+          <FSP:FechaFacturaOriginal>15/06/2023</FSP:FechaFacturaOriginal>
+          <FSP:Leyenda />
+          <FSP:EmailReceptorPrimario>eduardo_garfias@hotmail.com</FSP:EmailReceptorPrimario>
+          <FSP:EmailAdicionales />
+          <FSP:IndicadorEnvioEmail>X</FSP:IndicadorEnvioEmail>
+        </FSP:Cabecera>
+        <FSP:DtR IEPSM="" IEPST="" IVAM="0 " IVAT="0 " Id="000000000003140733" ImIEPS="1708.00 " PUIEPS="854.00 " Pos="1 " />
+        <FSP:DtR IEPSM="" IEPST="" IVAM="0 " IVAT="0 " Id="000000000003140733" ImIEPS="1.00 " PUIEPS="1.00 " Pos="2 " />
+        <FSP:Pie>
+          <FSP:Coaseguro />
+          <FSP:PeriodoFacturacion />
+          <FSP:NombrePaciente />
+          <FSP:NumeroSiniestro />
+          <FSP:CoaseguroPorcentaje />
+          <FSP:Observaciones />
+          <FSP:NumeroAtencion />
+          <FSP:Sucursal>0042</FSP:Sucursal>
+          <FSP:NumeroTicket>3058803175</FSP:NumeroTicket>
+          <FSP:IdTransaccion>2059882831</FSP:IdTransaccion>
+          <FSP:SubtotalIEPS>1709.00 </FSP:SubtotalIEPS>
+          <FSP:TotalImpuestosTrasladadosIEPS>0.00 </FSP:TotalImpuestosTrasladadosIEPS>
+        </FSP:Pie>
+        <FSP:Leyendas>
+          <FSP:MetodoPago>04 Tarjeta de Crédito</FSP:MetodoPago>
+          <FSP:Cuenta />
+        </FSP:Leyendas>
+        <FSP:IDCopago>00</FSP:IDCopago>
+      </FSP:SPFAdicionalCFDI>
+    </FSP:AddendaEmisor>
+    <adddomemi:AddendaDomicilioEmisor calle="AV. RÍO MIXCOAC" noExterior="140" colonia="ACACIAS" municipio="BENITO JUAREZ" estado="CIUDAD DE MEXICO" pais="MEXICO" codigoPostal="03240" />
+    <adddomexp:AddendaDomicilioExpedidoEn calle="AVENIDA PATRIOTISMO" noExterior="480" colonia="SAN PEDRO DE LOS PINOS" localidad="BENITO JUAREZ" municipio="BENITO JUAREZ" estado="CIUDAD DE MEXICO" pais="MEXICO" codigoPostal="03800" />
+  </cfdi:Addenda>
+</cfdi:Comprobante>

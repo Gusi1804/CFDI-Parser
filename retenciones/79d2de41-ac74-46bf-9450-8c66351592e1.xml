@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<retenciones:Retenciones xmlns:retenciones="http://www.sat.gob.mx/esquemas/retencionpago/2" xmlns:plataformasTecnologicas="http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CveRetenc="26" FechaExp="2023-06-04T06:23:37" FolioInt="360287970718453886" LugarExpRetenc="06500" NoCertificado="00001000000501537009" Sello="dllK2Fj6fybBMrIBOjaJLlFptdkRCdTjqYcDyxMZb5OG7R/ZC7k9wuZn7ff56T6k3CZBKngO0YmJFqaQE3e4q/7mKhpqx9R/KMs51CwExzZJTTy0mK6/8HiBdvlP2t58NKHEWaWx9CMmaA4v49QUW87w09d4Y5rBOS3toRkwyefj/PLriyGIYadKM3oZRrhQ50EjpxTURCNqdaXZkG6vFC/fJFJJBpx63u6FVsg3UWFWAzrijwYPg9u4NaxP2KfUPGu7d/gCeFoao14CmaGIbycOY+NQJ2yPnOU9K4UsKp48AiQPudrEfj3OtHsyRUrcXxKTLL/P3P0shDQno+J8Jg==" Version="2.0" xsi:schemaLocation="http://www.sat.gob.mx/esquemas/retencionpago/2 http://www.sat.gob.mx/esquemas/retencionpago/2/retencionpagov2.xsd http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10 http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10/ServiciosPlataformasTecnologicas10.xsd">
+  <retenciones:Emisor NomDenRazSocE="DIDI MOBILITY INFORMATION TECHNOLOGY PTE. LTD" RegimenFiscalE="610" RfcE="DMI1712045J9" />
+  <retenciones:Receptor NacionalidadR="Nacional">
+    <retenciones:Nacional DomicilioFiscalR="03810" NomDenRazSocR="VERONICA GARCIA BLANCAS" RfcR="GABV711214582" />
+  </retenciones:Receptor>
+  <retenciones:Periodo Ejercicio="2023" MesFin="05" MesIni="05" />
+  <retenciones:Totales MontoTotExent="0.00" MontoTotGrav="3030.62" MontoTotOperacion="3030.62" MontoTotRet="306.08">
+    <retenciones:ImpRetenidos BaseRet="3030.62" ImpuestoRet="001" MontoRet="63.64" TipoPagoRet="03" />
+    <retenciones:ImpRetenidos BaseRet="484.89" ImpuestoRet="002" MontoRet="242.44" TipoPagoRet="01" />
+  </retenciones:Totales>
+  <retenciones:Complemento>
+    <plataformasTecnologicas:ServiciosPlataformasTecnologicas DifIVAEntregadoPrestServ="242.459200" MonTotServSIVA="3030.62" MonTotalporUsoPlataforma="752.840004" NumServ="45" Periodicidad="01" TotalISRRetenido="63.64" TotalIVARetenido="242.44" TotalIVATrasladado="484.899200" Version="1.0">
+      <plataformasTecnologicas:Servicios>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-14" FormaPagoServ="03" PrecioServSinIVA="75.08" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="75.08" Importe="12.012800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="0.000001" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-14" FormaPagoServ="03" PrecioServSinIVA="61.48" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="61.48" Importe="9.836800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="19.63" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-14" FormaPagoServ="03" PrecioServSinIVA="36.22" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.22" Importe="5.795200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="10.47" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-14" FormaPagoServ="03" PrecioServSinIVA="62.48" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="62.48" Importe="9.996800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="19.52" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-14" FormaPagoServ="03" PrecioServSinIVA="47.36" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="47.36" Importe="7.577600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="14.07" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-13" FormaPagoServ="03" PrecioServSinIVA="58.48" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="58.48" Importe="9.356800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="16.19" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-13" FormaPagoServ="03" PrecioServSinIVA="202.42" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="202.42" Importe="32.387200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="58.01" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-13" FormaPagoServ="03" PrecioServSinIVA="48.71" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="48.71" Importe="7.793600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="15.41" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-13" FormaPagoServ="03" PrecioServSinIVA="87.64" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="87.64" Importe="14.022400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="25.72" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-13" FormaPagoServ="03" PrecioServSinIVA="62.18" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="62.18" Importe="9.948800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="20.60" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="111.22" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="111.22" Importe="17.795200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="30.13" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="66.11" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="66.11" Importe="10.577600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="5.37" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="60.72" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="60.72" Importe="9.715200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="6.41" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="53.86" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="53.86" Importe="8.617600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="17.66" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="43.55" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="43.55" Importe="6.968000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="14.44" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-12" FormaPagoServ="03" PrecioServSinIVA="48.17" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="48.17" Importe="7.707200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="14.54" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-11" FormaPagoServ="03" PrecioServSinIVA="48.00" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="48.00" Importe="7.680000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="14.77" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="36.52" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.52" Importe="5.843200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="9.34" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="55.84" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="55.84" Importe="8.934400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="17.77" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="56.36" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="56.36" Importe="9.017600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="6.22" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="186.20" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="186.20" Importe="29.792000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="49.09" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="65.92" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="65.92" Importe="10.547200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="13.45" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="60.19" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="60.19" Importe="9.630400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="15.89" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="70.06" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="70.06" Importe="11.209600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="22.47" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-10" FormaPagoServ="03" PrecioServSinIVA="51.38" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="51.38" Importe="8.220800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="14.49" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="20" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="20" Importe="3.200000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="0.000001" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="20" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="20" Importe="3.200000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="0.000001" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="28.6" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="28.6" Importe="4.576000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="0.000001" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="94.73" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="94.73" Importe="15.156800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="19.68" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="74.88" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="74.88" Importe="11.980800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="18.80" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="33.38" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="33.38" Importe="5.340800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="8.45" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="36.66" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.66" Importe="5.865600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="9.91" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="36.59" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.59" Importe="5.854400" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="9.71" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="76.83" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="76.83" Importe="12.292800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="4.69" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="63.72" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="63.72" Importe="10.195200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="18.01" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-09" FormaPagoServ="03" PrecioServSinIVA="115.51" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="115.51" Importe="18.481600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="23.07" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="32.85" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="32.85" Importe="5.256000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="8.45" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="99.43" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="99.43" Importe="15.908800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="25.86" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="53.98" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="53.98" Importe="8.636800" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="17.89" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="179.42" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="179.42" Importe="28.707200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="56.01" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="47.20" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="47.20" Importe="7.552000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="5.49" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="94.61" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="94.61" Importe="15.137600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="26.85" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="36.06" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="36.06" Importe="5.769600" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="5.25" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="76.60" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="76.60" Importe="12.256000" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="25.35" />
+        </plataformasTecnologicas:DetallesDelServicio>
+        <plataformasTecnologicas:DetallesDelServicio FechaServ="2023-05-08" FormaPagoServ="03" PrecioServSinIVA="53.42" SubTipServ="01" TipoDeServ="01">
+          <plataformasTecnologicas:ImpuestosTrasladadosdelServicio Base="53.42" Importe="8.547200" Impuesto="02" TasaCuota="0.16" TipoFactor="Tasa" />
+          <plataformasTecnologicas:ComisionDelServicio Importe="17.71" />
+        </plataformasTecnologicas:DetallesDelServicio>
+      </plataformasTecnologicas:Servicios>
+    </plataformasTecnologicas:ServiciosPlataformasTecnologicas>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2023-06-04T06:23:38" NoCertificadoSAT="00001000000504204971" RfcProvCertif="PPD101129EA3" SelloCFD="dllK2Fj6fybBMrIBOjaJLlFptdkRCdTjqYcDyxMZb5OG7R/ZC7k9wuZn7ff56T6k3CZBKngO0YmJFqaQE3e4q/7mKhpqx9R/KMs51CwExzZJTTy0mK6/8HiBdvlP2t58NKHEWaWx9CMmaA4v49QUW87w09d4Y5rBOS3toRkwyefj/PLriyGIYadKM3oZRrhQ50EjpxTURCNqdaXZkG6vFC/fJFJJBpx63u6FVsg3UWFWAzrijwYPg9u4NaxP2KfUPGu7d/gCeFoao14CmaGIbycOY+NQJ2yPnOU9K4UsKp48AiQPudrEfj3OtHsyRUrcXxKTLL/P3P0shDQno+J8Jg==" SelloSAT="Gc3DHKhN2n1abusjSvAEy+ZrOmtFacVe3dFb6sieji5yiC/PVOKIoF5N/qEUOciiVebwgMm2K+TYcf17Lh/Y/lrkMDlE9ucFMYVLQfS/bGKkaIvFlKy6AKdC3C4OJbgjggy2Bcp9y4bsShhDhUUTZBKbcm8I3SZLcvqYB05dB4Cl9HhQpbK+9bRHFXIZsAyes4sK9tVuLdXs44v/CUIlzP/3etP/nMIvXyalWflujFh0I5fr4UD6Gwy+dx8V8l0/Tt+6UcUZSupT7moBHNbChYZoEi+o5VNTL5AEgL8ajYxdr2nPISHDl2VLDYfsGTWwnGIqm0KA47Z7gi6LqUBMQw==" UUID="79D2DE41-AC74-46BF-9450-8C66351592E1" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </retenciones:Complemento>
+</retenciones:Retenciones>
