@@ -37,7 +37,7 @@ def main():
                     result['subtotal'] = Decimal(dict(document.documentElement.attributes.items())['SubTotal'])
                     result['total'] = Decimal(dict(document.documentElement.attributes.items())['Total'])
 
-                    if "descuento" in dict(document.documentElement.attributes.items())['Descuento']:
+                    if "descuento" in dict(document.documentElement.attributes.items()):
                         result['descuento'] = dict(document.documentElement.attributes.items())['Descuento']
                     else:
                         result['descuento'] = Decimal(0.00)
@@ -56,9 +56,11 @@ def main():
                                 result['conceptos'] = []
                                 for node_concepto in node.childNodes:
                                     if node_concepto.nodeType != Node.TEXT_NODE:
-                                        print(node_concepto)
+                                        # print(node_concepto)
                                         # Concepto
-                                        concepto = {}
+                                        concepto = {
+                                            'IVA': Decimal(0.00)
+                                        }
                                         attributes = dict(node_concepto.attributes.items())
 
                                         concepto['cantidad'] = Decimal(attributes['Cantidad'])
@@ -71,22 +73,20 @@ def main():
                                         else:
                                             concepto['descuento'] = Decimal(0.00)
                                         
-                                        if attributes['ObjetoImp'] == "02":
-                                            for node_imp in node_concepto.childNodes:
-                                                # Impuestos
-                                                if node_imp.nodeType != Node.TEXT_NODE:
-                                                    for node_tras in node_imp.childNodes:
-                                                    # Traslados
-                                                        if node_tras.nodeType != Node.TEXT_NODE:
-                                                            for node_traslado in node_tras.childNodes:
-                                                                if node_traslado.nodeType != Node.TEXT_NODE:
-                                                                    attributes = dict(node_traslado.attributes.items())
-                                                                    print(node_tras)
-                                                                    if attributes['Impuesto'] == "002":
-                                                                        concepto['IVA'] = Decimal(attributes['Importe'])
-                                                                        result['IVA'] = result['IVA'] + concepto['IVA']
-                                        else:
-                                            concepto['IVA'] = Decimal(0.00)
+
+                                        for node_imp in node_concepto.childNodes:
+                                            # Impuestos
+                                            if node_imp.nodeType != Node.TEXT_NODE:
+                                                for node_tras in node_imp.childNodes:
+                                                # Traslados
+                                                    if node_tras.nodeType != Node.TEXT_NODE:
+                                                        for node_traslado in node_tras.childNodes:
+                                                            if node_traslado.nodeType != Node.TEXT_NODE:
+                                                                attributes = dict(node_traslado.attributes.items())
+                                                                # print(node_tras)
+                                                                if attributes['Impuesto'] == "002":
+                                                                    concepto['IVA'] = Decimal(attributes['Importe'])
+                                                                    result['IVA'] = result['IVA'] + concepto['IVA']
 
                                         result['conceptos'].append(concepto)  
 
@@ -96,6 +96,10 @@ def main():
                                     if child.nodeType != Node.TEXT_NODE and child.tagName == "tfd:TimbreFiscalDigital":
                                         attributes = dict(child.attributes.items())
                                         result['folio'] = attributes['UUID'].upper()
+                                        print(result['folio'])
+                            
+                            print(result)
+                            print('\n')
 
                     
                     results = open("res-sgmm-cfdis.csv", "a+")
@@ -107,7 +111,7 @@ def main():
                     for concepto in result['conceptos']:
                         results = open("res-sgmm-conceptos.csv", "a+")
                         results.write(
-                            f'{concepto["importe"]},{concepto["descripcion"]},{concepto["cantidad"]},{concepto["descuento"]},{concepto["IVA"]},{result["emisor_rfc"]},{result["folio"].upper()}\n'
+                            f'{concepto["importe"]},{concepto["descripcion"]},{concepto["cantidad"]},{concepto["descuento"]},{concepto["IVA"]},{result["emisor_rfc"]},{result["fecha"]},{result["folio"].upper()}\n'
                         )  # Write results to res-sgmm-conceptos.csv file
                         results.close()
                     
